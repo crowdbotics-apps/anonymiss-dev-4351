@@ -1,0 +1,3 @@
+rootProject.name = 'anonymiss_dev_4351'
+
+include ':app'
